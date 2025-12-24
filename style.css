@@ -220,6 +220,10 @@ header img{
     color: #fff;
 }
 
+.bio h4 span .pricing ul{
+    margin-left: 50px;
+}
+
 footer{
     margin-top: 60px;
     padding: 20px;
